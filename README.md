@@ -1,4 +1,4 @@
-<img width="1296" height="1296" alt="42c7c875-226e-4630-863c-0251a2d46572" src="https://github.com/user-attachments/assets/fa024a22-48ff-4793-9524-9a17cbf39612" /># Google Gemini Desktop — Multimodal AI Client for Windows, macOS, and Linux
+# Google Gemini Desktop — Multimodal AI Client for Windows, macOS, and Linux
 
 **Google Gemini Desktop** is an unofficial cross-platform AI workspace for multimodal chat, coding assistance, research, creative tasks, and image or file analysis. It gives users a dedicated Gemini-style desktop experience with organized conversations, model selection, reusable prompts, and streaming-friendly responses.
 
